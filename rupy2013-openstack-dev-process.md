@@ -1,10 +1,3 @@
----
-title: "RuPy 2013: on OpenStack Development: How we build it, and how you can help"
-date: 2013-10-11 15:00 EST
-tags:
- - events
----
-
 You can read a more detailed log at [teropa.info](http://teropa.info). My review is more a 
 
 [Cody from HP works on OpenStack](https://twitter.com/somerville32)

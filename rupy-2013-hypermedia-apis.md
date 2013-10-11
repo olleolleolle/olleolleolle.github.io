@@ -1,10 +1,3 @@
----
-title: "RuPy 2013: Hypermedia APIs and Adaptive Web Design"
-date: 2013-10-11 15:30 EST
-tags:
- - events
----
-
 A talk by Gustav Kotte from JayWay in Sweden.
 
 * Hypermedia APIs - no app logic in API clients
